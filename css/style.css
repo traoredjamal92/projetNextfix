@@ -1,0 +1,16 @@
+h1 {
+    padding-top: 1%;
+}
+
+.posters img:hover {
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+.posters {
+    text-align: justify;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 0.5%;
+    background-color: #272727;
+    padding-bottom: 1%
+}
